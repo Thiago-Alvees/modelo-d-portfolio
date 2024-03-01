@@ -1,0 +1,80 @@
+{
+  "name": "Thiago Alves",
+  "photo": "https://avatars.githubusercontent.com/u/106712745?v=4",
+  "job": "Desenvolvedor Front-end",
+  "location": "Parnamirim - RN",
+  "phone": "(84) 98146-2348",
+  "email": "thiago.alves0302@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Figma",
+        "logo": "https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://img.icons8.com/?size=48&id=20909&format=png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://img.icons8.com/?size=48&id=21278&format=png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "https://img.icons8.com/?size=48&id=108784&format=png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://img.icons8.com/?size=80&id=6SWtW8hxZWSo&format=png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"
+      },
+      {
+        "name": "React",
+        "logo": "https://img.icons8.com/?size=80&id=asWSSTBrDlTW&format=png"
+      }
+    ],
+    "softSkills": [
+      "Organização",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Comunicação",
+      "Resolução de problemas"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "CalculoSweet, calculadora de lucros especializada para o setor alimentício.",
+      "url": "https://thiago-alvees.github.io/calc-custo-lucro/index.html",
+      "github": true
+    },
+    {
+      "name": "Clone do Site da HBO MAX",
+      "url": "https://thiago-alvees.github.io/clone-hbomax/",
+      "github": true
+    },
+    {
+      "name": "Clone do Site do Discord",
+      "url": "https://thiago-alvees.github.io/clone-site-discord/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Estagiário - SESAP RN",
+      "period": "Agosto de 2023 - até Dezembro de 2023",
+      "description": "Durante o estágio eu pude auxiliar na coleta, análise e disseminação de dados estatísticos, auxiliar na elaboração de padrões e fluxos de dados, contribuir positivamente no uso de software, auxiliar no aperfeiçoamento de rotinas existentes, auxiliar nos processos administrativos, e propor inovação tecnológica quando possível."
+    },
+    {
+      "name": "Expert em interações",
+      "period": "Março de 2021 - até Agosto de 2023",
+      "description": "Auxiliava os clientes para podermos juntos resolver problemas adversos."
+    }
+  ]
+}
